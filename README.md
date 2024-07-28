@@ -6,13 +6,14 @@ A simple and elegant Dark Mode Button is implemented using JavaScript, HTML, and
 - 🎨 Customizable Design: Easily adjust the button and theme styles to match your website's aesthetics.
 - 💾 Persistent Theme Preference: Remembers the user's theme preference using local storage.
 - ⚡ Lightweight and Efficient: Minimal page load time and performance impact.
-- 🛠️ Technologies Used
-HTML: A markup language for creating the button structure and theme elements.
-CSS: Styling language for designing the appearance of the buttons and themes.
-JavaScript: A programming language for adding the toggle functionality and handling theme preference.
+
+## 🛠️ Technologies Used
+- HTML: A markup language for creating the button structure and theme elements.
+- CSS: Styling language for designing the appearance of the buttons and themes.
+- JavaScript: A programming language for adding the toggle functionality and handling theme preference.
 
 # 🚀 Getting Started
-## Prerequisites
+### Prerequisites
 A web browser to view and test the dark mode button.
 A code editor (like VSCode) for making customizations.
 
