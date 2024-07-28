@@ -11,7 +11,7 @@ HTML: A markup language for creating the button structure and theme elements.
 CSS: Styling language for designing the appearance of the buttons and themes.
 JavaScript: A programming language for adding the toggle functionality and handling theme preference.
 
-#🚀 Getting Started
+# 🚀 Getting Started
 ## Prerequisites
 A web browser to view and test the dark mode button.
 A code editor (like VSCode) for making customizations.
